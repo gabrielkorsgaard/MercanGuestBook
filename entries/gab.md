@@ -1,8 +1,5 @@
-
-
-
-# <GAB>
+# GAB
 
 - **GitHub**: https://github.com/gabrielkorsgaard/
 - **Website**: https://<GAB>
-- **Quote**: "<ulrik er ikke sej>"
+- **Quote**: "Urik er ikke sej"
